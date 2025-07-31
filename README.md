@@ -1,3 +1,5 @@
+# KPMG_data_analysis_with_Excel
+
 This project focuses on customer and sales analysis using Excel, based on a case study provided by KPMG. Key activities include:
 
 1. Cleaning and standardizing customer, transaction, and demographic data for accuracy.
